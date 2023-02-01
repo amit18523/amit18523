@@ -1,12 +1,7 @@
 - 👋 Hi, I’m Amit Kumar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in FullStack Development
+- 🌱 I’m currently Working as Software Engineer @Accolite Digital
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me at iamamitk04@gmail.com https://www.linkedin.com/in/amit-kumar-1023191b4/
+- 📫 How to reach me at iamamitk04@gmail.com https://www.linkedin.com/in/amit-kumar-1023191b4/ https://github.com/AmitKAcco
 
-Other github Id AmitKAcco
 
-<!---
-amit18523/amit18523 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
